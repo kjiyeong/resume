@@ -1,0 +1,21 @@
+.showcase {
+    
+    margin-right: 50px;
+    padding-right: 60px;
+}
+
+.img-fluid {
+    max-width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h2 {
+    text-align: left;
+}
+
+.skills{
+    text-align: left;
+    font-weight: bold;
+    margin-left: 10px;
+}
